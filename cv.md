@@ -1,7 +1,8 @@
 # *Solntsev Vitalii*
 
 ***My contacts***
-- E-mail: [mail.ru](Amen-vampire@mail.ru); [gmail.com](suicidalcoproposthardcore@gmail.com)
+- E-mail: [mail.ru](http://Amen-vampire@mail.ru); [gmail.com](http://suicidalcoproposthardcore@gmail.com)
+- Discord nickname: KOSH (@yourkosh)
 - Phone: + 7 999 58583334
 
 ***Shortly about myself***
@@ -21,3 +22,13 @@
 I have many diffrent works: from butcher to scientist. 
 
 But last 4 years i spend to chemistry and dont get experience in web-development :(
+
+***Education***
+
+Ural State Polzunov's College, chemical analysis
+
+Kazan National Research Technical University named after A. N. Tupolev, instrumentation
+
+***English***
+
+This text i wrote by myself, but still a beginer
