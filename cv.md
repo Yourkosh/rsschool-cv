@@ -17,7 +17,7 @@
 2. I like to get what i want;
 3. I want get skills in web-develpment.
 
-***Woring skills***
+***Work skills***
 
 I have many diffrent works: from butcher to scientist. 
 
