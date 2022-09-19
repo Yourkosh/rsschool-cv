@@ -1,2 +1,1 @@
-# rsschool-cv
-Studing of coding
+https://yourkosh.github.io/rsschool-cv/cv
